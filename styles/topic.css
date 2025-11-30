@@ -1,0 +1,54 @@
+.topics{
+    width: 10vw;
+    height:50%;
+    position:relative;
+    overflow:hidden;
+    transform-origin: center;
+    transform: perspective();
+    transition:0.5s;
+
+}
+.topic img{
+    border-radius: 3px;
+    width:50px;
+    height:50px;
+    object-fit:cover;
+    display:block;
+    transition: opacity() 0.5s;
+    border: 3px solid 
+
+
+}
+.details-overlay{
+    position:absolute;
+    top:0;
+    left:0;
+    width:50px;
+    background:rgba (0,0,0,0.2);
+    color:white;
+    flex-direction:column;
+    display:relative;
+    justify-content:center;
+    align-items:center;
+
+}
+.details-button{
+    background-color:#ffff;
+    color:rgb(0,0,0,0);
+    border:none;
+    cursor:pointer;
+    border-radius:4px;
+    margin-top:5px;
+    padding:10px;
+    font-family: "Agency";
+    font-size:18px;
+
+} .details-button:hover{ background-color: #4e8339}
+.topic:hover{
+
+    transform:perspective(900px) rotateY(0deg);
+    opacity:1;
+}
+.topic:hover img{opacity:0.5;};
+
+.topic:hover .details-overlay{opacity:1;margin-left:-4px}

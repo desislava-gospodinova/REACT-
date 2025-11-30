@@ -1,0 +1,27 @@
+#topic-details{ margin: 20px auto; position:relative;width:90vw;max-width:1200px; height:auto;border-radius:15px;  padding:2vw 4vw;box-sizing:border-box;text-align:center;background:#2d2e2dc0;box-shadow: 0px 0px 24px 0px #32485e, -10px -10px 15px #191c21; color:white}
+#topic-details h1{ font-size:2.5vw; width:100%;color:white;
+} #topic-details .info-secrtion{ display:flex; flex-wrap:wrap; text-align:left;}
+#topic-details .header-and-image{ width:90vw; display:flex; flex-direction:row; justify-content: space-between;gap:20px}
+#topic-details .topic img{ width:20vw; max-height:400px; object-fit: cover; border-radius:10px;box-shadow:5px 5px 10px #21191b, -5px -5px 10px #5e6865;};
+.meta-info{padding:1vw; width:30vw;display:flex;flex-direction:colu;gap:5p;border:a;background:#32485e;box-shadow: inset 2px 2px 4px #2a3a48 ,inset -2px -2px 4px }
+#topic-details .topic-name{ font-size-adjust: 1.8vw;margin: 0 0 2vk;; text-align:center;}
+#topic-details .data-row{ display:flex; justify-content: space-between;padding: 0.5vw 0; font-size:1.1vw; border-bottom: 1px dashed #5e6865;}
+#topic-details .topic-row:last-of-type{ border-bottom:none;}
+#topic-details .data-row.label{font-weight:bolder;}
+#topic-details .summary-section h2{font-size :1.5vw;  margin-top:0;color:white;text-align:left;}
+#topic-details .text-summary{font-size:1.2vw;line-height:1.6;}
+}
+   #comment 
+   #topic-details  .button{width:100%;text-align:center;margin-top:3vw;padding-top: 1.5vw;border-top:1px dashed #5e6865;}
+   #topic-details .button .button { display: inline block;padding: 1vw 3vw ; margin: 0 1.5v; font-size:1.1vw; fon-weight:bold;color:white;text-decoration:none;cursor:point;border-radius:50px;box-shadow:3px 3px 6px#191c21, -3px 6px #536865;transition: all 0.3s ease;}
+    #topic-details .buttons  .button:ntn child1{background:#86a480;}       
+                                 #topic-details .button .button:ntn child2{background : #943d44;}        
+                                 #topic-details          .button .button:hover{box-shadow: 1px 1px 3px #191c21, -1px - 3px #5e6865; background: #73946d;}                  
+                                 #topic-details              .buttton .buttton:nth child2:hover{background: #7a0e07;}                                                                                                                                                                                         
+                                                                                                                                                                                           
+
+
+
+
+
+

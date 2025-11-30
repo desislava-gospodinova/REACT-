@@ -1,0 +1,49 @@
+body{
+    
+    background-attachment:fixed;
+    
+}
+html,body,#root{
+    height:100%;
+    width:100%;
+    margin:0;
+    
+}
+
+body{
+position:relative;
+min-height:100vh;
+margin:0
+}
+footer .down-text{
+    font-size:0.9em;
+}
+footer{ margin: top 50px;
+background-color: #333333;
+text-align:center;
+
+}
+footer .down-text{
+    font: size 0.9em;
+
+}
+.home.img -0.9;
+header{background-color: rgba(176, 180, 188, 0.827);color:black;width:60vw;padding:0px 20px; border-bottom-left-radius:20px;border-bottom-rigth-radius:20px; font-famil:"Agency F"; font-size:22px;}
+header h1{display:inline-block; background-color:#29303c;color:black;margin-bottom:auto;}
+header nav{display:flex;align-items:center;justify-content:start;}                                                                                                                                             
+header nav>*{float:left};
+footer{
+    padding:0.5;
+    width:100px;
+    left:0;
+    bottom:0;
+} 
+nav a{margin:
+    0 0.5}
+   nav a:hover{cursor:pointer;
+color:rgba(144, 141, 112, 0.31); font-weight:bold;
+}                                                                                                                                                                    
+.home:hover{color:rgb(82,13,136)}
+#user
+#guest{   margin:0;
+padding:0;}
